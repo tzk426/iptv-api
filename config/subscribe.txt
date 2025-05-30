@@ -30,4 +30,4 @@ https://github.com/o0HalfLife0o/TVBoxOSC/releases
 https://d.kstore.dev/download/12020/zb.txt
 https://live.kilvn.com/iptv.m3u
 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
-
+https://github.com/kimwang1978/collect-tv-txt/blob/main/bbxx_lite.txt
