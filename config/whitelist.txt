@@ -2,7 +2,7 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
-📚音乐📚,#genre#
+
 音乐小石榴,https://live.iill.top/huya/17091681
 音乐小石榴,https://live.metshop.top/huya/17091681
 喵喵音乐台,http://huanqiuzhibo.cn/manifest/douyu.php?id=9568091
@@ -41,7 +41,6 @@ CHC高清电影
 极速经典电影1,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 极速经典电影2,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 极速经典电影3,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-📚辽宁📚,#genre#
 辽宁经济,http://39.134.52.215/PLTV/88888888/224/3221226505/index.m3u8
 辽宁体育休闲,http://39.134.52.215/PLTV/88888888/224/3221226508/index.m3u8
 辽宁影视剧,http://39.134.52.215/PLTV/88888888/224/3221226512/index.m3u8
@@ -79,9 +78,6 @@ CHC高清电影
 风云剧场,http://39.134.52.215/PLTV/88888888/224/3221227146/index.m3u8
 风云音乐,http://39.134.52.215/PLTV/88888888/224/3221227148/index.m3u8
 第一剧场,http://39.134.52.215/PLTV/88888888/224/3221227144/index.m3u8
-
-
-📚央视📚,#genre#
 CCTV1,http://39.134.52.215/PLTV/88888888/224/3221226896/index.m3u8
 CCTV2,http://39.134.52.215/PLTV/88888888/224/3221226608/index.m3u8
 CCTV2,http://39.134.52.215/PLTV/88888888/224/3221226843/index.m3u8
@@ -285,7 +281,7 @@ CCTV14,http://mingjd.cn:7077/rtp/239.3.1.14:8236
 CCTV15,http://mingjd.cn:7077/rtp/239.3.1.15:8052
 CCTV17,http://mingjd.cn:7077/rtp/239.3.1.150:8064
 
-📚卫视📚,#genre#
+
 辽宁卫视,http://39.134.52.215/PLTV/88888888/224/3221226859/index.m3u8
 北京卫视,http://39.134.52.215/PLTV/88888888/224/3221226871/index.m3u8
 黑龙江卫视,http://39.134.52.215/PLTV/88888888/224/3221226873/index.m3u8
