@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2025-06-16 21:59:47,https://live.iill.top/huya/17091681
+2025-06-17 06:56:23,https://live.iill.top/huya/17091681
 
 📚音乐📚,#genre#
 音乐小石榴,https://live.iill.top/huya/17091681
 音乐小石榴,https://live.metshop.top/huya/17091681
 音乐小石榴,https://live.iill.top/huya/17091681
 音乐小石榴,https://live.metshop.top/huya/17091681
+音乐小石榴,https://www.goodiptv.club/huya/17091681
 喵喵音乐台,http://huanqiuzhibo.cn/manifest/douyu.php?id=9568091
 喵喵音乐台,http://huanqiuzhibo.cn/manifest/douyu.php?id=9568091
 秋月剪水,https://live.iill.top/douyu/9588891
@@ -264,6 +265,7 @@ CETV4,http://mingjd.cn:7077/rtp/239.3.1.56:4120
 北京科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 北京财经,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
 北京财经,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8
+清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 
 📚辽宁频道📚,#genre#
 朝阳新闻综合,http://tvbox6.com/tv/bfgd.php?id=282
@@ -341,6 +343,7 @@ CETV4,http://mingjd.cn:7077/rtp/239.3.1.56:4120
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
@@ -349,6 +352,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 J2,http://j.s.bkpcp.top/jj/2j
 J2,http://php.jdshipin.com/TVOD/iptv.php
 Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php
+Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
@@ -393,11 +397,13 @@ CHC高清电影,http://eastscreen.tv/ooooo.php?id=chchd
 极速经典电影2,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 极速经典电影3,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy#http://php.jdshipin.com:8880/1905.php?id=1905dy2#https://www.goodiptv.club/huya/17688549
 女神电影✔原,http://zzy789.xyz/douyu1.php?id=747764
 欢乐剧场,http://zzy789.xyz/douyu1.php?id=74374
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 高分电影,http://data.3g.yy.com/live/hls/1354936157/1354936157
+欧美大片,http://zzy789.xyz/douyu1.php?id=2793084#http://home.kuaidi521.com:35455/douyu/2793084
 冰冰小剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
 刀刀影院,http://zzy789.xyz/douyu1.php?id=747764
 冰冰影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
@@ -414,6 +420,7 @@ CHC高清电影,http://eastscreen.tv/ooooo.php?id=chchd
 梁家辉,https://live.iill.top/huya/11342429
 梁家辉,https://live.metshop.top/huya/11342429
 甄子丹,https://www.goodiptv.club/huya/11352935
+甄子丹,https://www.goodiptv.club/huya/11352935#http://www.douzhicloud.site:35455/huya/11352935
 许冠英,https://www.goodiptv.club/huya/11601972
 许冠英,https://live.metshop.top/huya/11601972
 王晶,https://live.metshop.top/huya/11602058
@@ -433,12 +440,14 @@ CHC高清电影,http://eastscreen.tv/ooooo.php?id=chchd
 动作电影,http://goo.bkpcp.top/mg/chcdz
 动作电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 动作电影,http://data.3g.yy.com/live/hls/1382735573/1382735573
+妖孽CC,https://www.goodiptv.club/huya/11352945
 经典港剧,https://live.metshop.top/huya/11352965
 经典港片,https://live.metshop.top/huya/11602043
 漫威,https://live.metshop.top/huya/11602034
 港台电影,http://data.3g.yy.com/live/hls/1382800018/1382800018
 小猪优版剧院,https://www.goodiptv.club/douyu/10297898
 开心锤锤动漫,https://live.iill.top/douyu/9018297
+开心锤锤动漫,https://www.goodiptv.club/douyu/9018297
 周星驰电影,http://103.193.151.146/huya.php?id=11342412
 冰冰经典,http://zzy789.xyz/douyu1.php?id=74374
 
@@ -488,7 +497,6 @@ CCTV-5+,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000306/index.m3u8
 快乐垂钓,http://php.jdshipin.com:8880/itv6.php
 快乐垂钓,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8
 JJ斗地主,https://live.iill.top/huya/14079954
-JJ斗地主,https://live.iill.top/douyin/jjworld
 
 📚动画频道📚,#genre#
 少儿动画,http://mingjd.cn:7077/rtp/239.3.1.199:9000
@@ -602,6 +610,7 @@ yMG新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-2.m3u8
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 余杭未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 方城一套台,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
 郏县综合频道,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
@@ -691,6 +700,7 @@ yMG新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
 兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
+滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]#http://live.dxhmt.cn:9081/tv/10526-1.m3u8
 济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8#http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
 荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
@@ -713,6 +723,7 @@ yMG新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 天龙八部,http://luobo.bkpcp.top/yy/1382736855
 天龙八部,http://www.clmy.cc:35455/yy/1355067965
 鹿鼎记,http://live.iill.top/yy.php?id=1382704650
+鹿鼎记,http://live.iill.top/yy.php?id=1382704650#https://lunbo.freetv.top/yy/1354658049#http://1.94.31.214:35455/yy/28265277
 仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
 仙剑奇侠传,https://live.metshop.top/yy/1382749903
 西游记,https://live.iill.top/huya/26355861
@@ -728,6 +739,7 @@ yMG新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 上海滩,http://luobo.bkpcp.top/yy/1382745184
 上海滩,http://live.iill.top/yy.php?id=1382745184
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
+射雕英雄传,http://live.iill.top/yy.php?id=1354210357#https://lunbo.freetv.top/yy/1354210357#http://1.94.31.214:35455/huya/23824164
 黑莓电影,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225740/index.m3u8?servicetype=1
 黑莓电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010073
 古装剧场,http://mingjd.cn:7077/rtp/239.3.1.69:4120
@@ -796,6 +808,7 @@ SiTV游戏风云,http://www.terrykang.xyz:35455/itv/5000000011000031114.m3u8?cdn
 爱动漫,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 爱体育,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630
 爱体育,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
+青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000#http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=toShengfen&mode=1&
 
 📚dj串烧合集📚,#genre#
 2023口水旋律车载DJ串烧,https://txmov2.a.kwimgs.com/bs3/video-hls/5195465247443616945_hlsb.m3u8
