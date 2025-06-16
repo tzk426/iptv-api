@@ -13,7 +13,7 @@
 茶频道,http://tvbox6.icu/tv/mgtv.php?id=578$ IPV4网络
 茶频道,https://api.ggiptv.com/v/hunantv.php?id=578
 茶频道,http://wouu.net:9977/udp/239.93.0.114:5140
-📚电影频道📚,#genre#
+
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
