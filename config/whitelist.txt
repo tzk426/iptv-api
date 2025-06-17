@@ -13,7 +13,6 @@
 茶频道,http://tvbox6.icu/tv/mgtv.php?id=578$ IPV4网络
 茶频道,https://api.ggiptv.com/v/hunantv.php?id=578
 茶频道,http://wouu.net:9977/udp/239.93.0.114:5140
-
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
@@ -116,7 +115,6 @@ CCTV14,http://39.134.52.215/PLTV/88888888/224/3221226855/index.m3u8
 CCTV14,http://39.134.52.215/PLTV/88888888/224/3221226571/index.m3u8
 CCTV-6,http://39.134.52.215/PLTV/88888888/224/3221226834/index.m3u8
 CETV1,http://39.134.52.215/PLTV/88888888/224/3221226518/index.m3u8
-
 CCTV1,http://8.138.7.223/tv/migu2.php?id=1
 CCTV2,http://8.138.7.223/tv/migu2.php?id=2
 CCTV3,http://8.138.7.223/tv/migu2.php?id=3
@@ -137,7 +135,6 @@ CCTV17,http://8.138.7.223/tv/migu2.php?id=17
 老故事,http://8.138.7.223/tv/migu2.php?id=25
 发现之旅,http://8.138.7.223/tv/migu2.php?id=26
 中学生,http://8.138.7.223/tv/migu2.php?id=27
-
 CCTV1,http://8.138.7.223/tv/migu.php?id=cctv1
 CCTV2,http://8.138.7.223/tv/migu.php?id=cctv2
 CCTV3,http://8.138.7.223/tv/migu.php?id=cctv3
@@ -160,8 +157,6 @@ CCTV17,http://8.138.7.223/tv/migu.php?id=cctv17
 CCTV发现之旅,http://8.138.7.223/tv/migu.php?id=fxzl
 CCTV老故事,http://8.138.7.223/tv/migu.php?id=lgs
 CCTV中学生,http://8.138.7.223/tv/migu.php?id=zxs
-
-
 CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1
 CCTV2,http://tvbox6.icu/tv/migu.php?id=cctv2
 CCTV3,http://tvbox6.icu/tv/migu.php?id=cctv3
@@ -182,7 +177,6 @@ CCTV14,http://tvbox6.icu/tv/migu.php?id=cctv14
 CCTV15,http://tvbox6.icu/tv/migu.php?id=cctv15
 CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17
 CCTV发现之旅,http://tvbox6.icu/tv/migu.php?id=fxzl
-
 CCTV1,http://106.52.196.79:80/TV/mui.php?id=cctv1
 CCTV2,http://106.52.196.79:80/TV/mui.php?id=cctv2
 CCTV3,http://106.52.196.79:80/TV/mui.php?id=cctv3
@@ -197,8 +191,6 @@ CCTV13,http://106.52.196.79:80/TV/mui.php?id=cctv13
 CCTV14,http://106.52.196.79:80/TV/mui.php?id=cctv14
 CCTV15,http://106.52.196.79:80/TV/mui.php?id=cctv15
 CCTV17,http://106.52.196.79:80/TV/mui.php?id=cctv17
-
-
 CCTV1,http://goo.bkpcp.top/mg/cctv1
 CCTV2,http://goo.bkpcp.top/mg/cctv2
 CCTV3,http://goo.bkpcp.top/mg/cctv3
@@ -216,9 +208,6 @@ CCTV14,http://goo.bkpcp.top/mg/cctv14
 CCTV15,http://goo.bkpcp.top/mg/cctv15
 CCTV16,https://yunmei.tv/main/cctv-16.m3u8
 CCTV17,http://goo.bkpcp.top/mg/cctv17
-
-
-
 CCTV1,http://114.246.201.137:7088/rtp/239.3.1.129:8008
 CCTV2,http://114.246.201.137:7088/rtp/239.3.1.60:8084
 CCTV3,http://114.246.201.137:7088/rtp/239.3.1.172:8001
@@ -237,11 +226,6 @@ CCTV14,http://114.246.201.137:7088/rtp/239.3.1.65:8132
 CCTV15,http://114.246.201.137:7088/rtp/239.3.1.153:8136
 CCTV16,http://114.246.201.137:7088/rtp/239.3.1.184:8001
 CCTV17,http://114.246.201.137:7088/rtp/239.3.1.151:8144
-
-
-
-
-
 CCTV1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 CCTV2,http://171.15.18.199:8180/TV00000000000000000002@HHZT
 CCTV3,http://171.15.18.199:8180/TV00000000000000000003@HHZT
@@ -258,12 +242,6 @@ CCTV13,http://171.15.18.199:8180/TV00000000000000000013@HHZT
 CCTV14,http://171.15.18.199:8180/TV00000000000000000014@HHZT
 CCTV15,http://171.15.18.199:8180/TV00000000000000000015@HHZT
 CCTV17,http://171.15.18.199:8180/TV00000000000000000017@HHZT
-
-
-
-
-
-
 CCTV1,http://mingjd.cn:7077/rtp/239.3.1.1:8000
 CCTV2,http://mingjd.cn:7077/rtp/239.3.1.2:8004
 CCTV3,http://mingjd.cn:7077/rtp/239.3.1.107:8001
@@ -280,8 +258,6 @@ CCTV13,http://mingjd.cn:7077/rtp/239.3.1.13:8048
 CCTV14,http://mingjd.cn:7077/rtp/239.3.1.14:8236
 CCTV15,http://mingjd.cn:7077/rtp/239.3.1.15:8052
 CCTV17,http://mingjd.cn:7077/rtp/239.3.1.150:8064
-
-
 辽宁卫视,http://39.134.52.215/PLTV/88888888/224/3221226859/index.m3u8
 北京卫视,http://39.134.52.215/PLTV/88888888/224/3221226871/index.m3u8
 黑龙江卫视,http://39.134.52.215/PLTV/88888888/224/3221226873/index.m3u8
@@ -346,7 +322,6 @@ CCTV17,http://mingjd.cn:7077/rtp/239.3.1.150:8064
 金鹰卡通高清,http://39.134.52.215/PLTV/88888888/224/3221226543/index.m3u8
 金鹰卡通高清,http://39.134.52.215/PLTV/88888888/224/3221226940/index.m3u8
 优漫卡通,http://39.134.52.215/PLTV/88888888/224/3221226548/index.m3u8
-
 东方卫视,http://8.138.7.223/tv/migu2.php?id=29
 广东卫视,http://8.138.7.223/tv/migu2.php?id=30
 江苏卫视,http://8.138.7.223/tv/migu2.php?id=31
@@ -383,7 +358,6 @@ CCTV17,http://mingjd.cn:7077/rtp/239.3.1.150:8064
 经典香港电影,http://8.138.7.223/tv/migu2.php?id=59
 军事迷必看大片,http://8.138.7.223/tv/migu2.php?id=60
 新片放映厅,http://8.138.7.223/tv/migu2.php?id=61
-
 东方卫视,http://8.138.7.223/tv/migu.php?id=dfws
 重庆卫视,http://8.138.7.223/tv/migu.php?id=cqws
 吉林卫视,http://8.138.7.223/tv/migu.php?id=jlws
@@ -410,7 +384,6 @@ CCTV17,http://mingjd.cn:7077/rtp/239.3.1.150:8064
 西藏卫视,http://8.138.7.223/tv/migu.php?id=xzws
 海南卫视,http://8.138.7.223/tv/migu.php?id=hinws
 四海钓鱼,http://8.138.7.223/tv/migu.php?id=shdy
-
 北京卫视,http://tvbox6.icu/tv/migu.php?id=bjws
 东方卫视,http://tvbox6.icu/tv/migu.php?id=dfws
 重庆卫视,http://tvbox6.icu/tv/migu.php?id=cqws
@@ -506,9 +479,6 @@ UFC格斗精选,http://tvbox6.icu/tv/migu.php?id=ufcgdjx
 赛事最经典,http://tvbox6.icu/tv/migu.php?id=sszjd
 体坛名栏汇,http://tvbox6.icu/tv/migu.php?id=ttmlh
 五大联赛经典,http://tvbox6.icu/tv/migu.php?id=wdlsjd
-
-
-
 家庭影院,http://goo.bkpcp.top/mg/chcjt
 动作电影,http://goo.bkpcp.top/mg/chcdz
 陕西卫视,http://goo.bkpcp.top/mg/sxws
@@ -551,8 +521,6 @@ UFC格斗精选,http://tvbox6.icu/tv/migu.php?id=ufcgdjx
 热剧联播,http://goo.bkpcp.top/mg/rjlb
 新片映厅,http://goo.bkpcp.top/mg/xpfyt
 Y+剧场台,http://goo.bkpcp.top/mg/yjjc
-
-
 湖南卫视,http://171.15.18.199:8180/TV00000000000000000018@HHZT
 浙江卫视,http://171.15.18.199:8180/TV00000000000000000020@HHZT
 东方卫视,http://171.15.18.199:8180/TV00000000000000000021@HHZT
@@ -574,9 +542,6 @@ Y+剧场台,http://goo.bkpcp.top/mg/yjjc
 河南卫视,http://171.15.18.199:8180/TV00000000000000000016@HHZT
 黑龙江卫视,http://171.15.18.199:8180/TV00000000000000000027@HHZT
 海南卫视,http://171.15.18.199:8180/TV00000000000000000028@HHZT
-
-
-
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
 北京体育,http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
@@ -602,9 +567,6 @@ Y+剧场台,http://goo.bkpcp.top/mg/yjjc
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
-
-
-
 湖南卫视,http://mingjd.cn:7077/rtp/239.3.1.18:8268
 浙江卫视,http://mingjd.cn:7077/rtp/239.3.1.19:8284
 江苏卫视,http://mingjd.cn:7077/rtp/239.3.1.20:8276
@@ -739,8 +701,6 @@ CETV4,http://mingjd.cn:7077/rtp/239.3.1.56:4120
 特辑影院,http://zzy789.xyz/douyu1.php?id=3637778
 可乐电影,http://zzy789.xyz/douyu1.php?id=20415
 奶虫恐怖电影,http://zzy789.xyz/douyu1.php?id=263824
-
-
 📚dj串烧合集📚,#genre#
 2023口水旋律车载DJ串烧,https://txmov2.a.kwimgs.com/bs3/video-hls/5195465247443616945_hlsb.m3u8 
 2024热播全中文口水旋律车载DJ串烧,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154098359410997_hlsb.m3u8 
