@@ -223,6 +223,53 @@ CHC高清电影
 华数轮播09,http://183.237.95.108:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0
 华数轮播10,http://183.237.95.108:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0
 华数轮播11,http://183.237.95.108:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
+凌儿影院✔原,http://zzy789.xyz/douyu1.php?id=1377142
+吃奶滴虫✔原,http://zzy789.xyz/douyu1.php?id=263824
+神电影✔原,http://zzy789.xyz/douyu1.php?id=747764
+华语经典✔原,http://zzy789.xyz/douyu1.php?id=434971
+欧美大片✔原,http://zzy789.xyz/douyu1.php?id=2793084
+冰冰小剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
+橙記港剧,http://zzy789.xyz/douyu1.php?id=4549169
+贝爷MAX,http://zzy789.xyz/douyu1.php?id=4332
+特辑影院,http://zzy789.xyz/douyu1.php?id=3637778
+华语影视,http://zzy789.xyz/douyu1.php?id=3928
+ 怡宝影视,http://zzy789.xyz/douyu1.php?id=434971
+ 科幻剧场,http://zzy789.xyz/douyu1.php?id=2793084
+ 贝贝影视,http://zzy789.xyz/douyu1.php?id=431460
+ 逗比动漫,http://zzy789.xyz/douyu1.php?id=562225
+  蚂蚱影院,http://zzy789.xyz/douyu1.php?id=6079455
+🎬️粤语星爷,http://103.193.151.146/huya.php?id=11336587
+🎬️周星驰电影,http://103.193.151.146/huya.php?id=11342412
+🎬️林正英电影,http://103.193.151.146/huya.php?id=11342421
+🎬️刘德华电影,http://103.193.151.146/huya.php?id=11342424
+🎬️古天乐电影,http://103.193.151.146/huya.php?id=29982675
+🎬️李连杰电影,http://103.193.151.146/huya.php?id=11342390
+🎬️甄子丹电影,http://103.193.151.146/huya.php?id=11352935
+🎬️沈腾电影,http://103.193.151.146/huya.php?id=11601968
+🎬️黄渤电影,http://103.193.151.146/huya.php?id=11352876
+🎬️强森电影,http://103.193.151.146/huya.php?id=21059581
+🎬️王晶电影,http://103.193.151.146/huya.php?id=11602058
+🎬️金庸武侠,http://103.193.151.146/huya.php?id=11342435
+🎬️功夫电影,http://103.193.151.146/huya.php?id=11352941
+🎬️贺岁电影,http://103.193.151.146/huya.php?id=11601986
+🎬️狄仁杰电影,http://103.193.151.146/huya.php?id=30080229
+刀刀影院✔原,http://zzy789.xyz/douyu1.php?id=747764
+女神60帧✔原,http://zzy789.xyz/douyu1.php?id=747764
+华语影视✔原,http://zzy789.xyz/douyu1.php?id=3928
+冰冰影厅✔原,http://zzy789.xyz/douyu1.php?id=74374
+橙記港剧✔原,http://zzy789.xyz/douyu1.php?id=4549169
+热门港剧✔原,http://zzy789.xyz/douyu1.php?id=5522351
+经典剧集✔原,http://zzy789.xyz/douyu1.php?id=6863367
+华语房✔原,http://zzy789.xyz/douyu1.php?id=85894
+星爷房✔原,http://zzy789.xyz/douyu1.php?id=122402
+欧美房✔原,http://zzy789.xyz/douyu1.php?id=20415
+惊悚电影✔原,http://zzy789.xyz/douyu1.php?id=96577
+凌儿影院,http://zzy789.xyz/douyu1.php?id=1377142
+特辑影院,http://zzy789.xyz/douyu1.php?id=3637778
+可乐电影,http://zzy789.xyz/douyu1.php?id=20415
+奶虫恐怖电影,http://zzy789.xyz/douyu1.php?id=263824
+
+
 极速经典电影1,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 极速经典电影2,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 极速经典电影3,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
@@ -425,6 +472,7 @@ yoo电影,http://dns.yiandrive.com:15907/huya/11352876
 斗鱼搞笑HD3,,http://zzy789.xyz/douyu1.php?id=9067836
 斗鱼搞笑HD4,,http://zzy789.xyz/douyu1.php?id=9817729
 斗鱼搞笑HD5,,http://zzy789.xyz/douyu1.php?id=8737695
+
 📚体育频道📚,#genre#
 CCTV-5
 CCTV-5+
