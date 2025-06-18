@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-18 06:38:05,https://live.iill.top/huya/17091681
+2025-06-18 18:51:31,https://live.iill.top/huya/17091681
 
 📚音乐📚,#genre#
 音乐小石榴,https://live.iill.top/huya/17091681
@@ -348,14 +348,14 @@ CETV4,http://mingjd.cn:7077/rtp/239.3.1.56:4120
 双鸭山综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 
 📚港澳台📚,#genre#
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 明珠台,http://php.jdshipin.com/TVOD/iptv.php
 明珠台,http://j.s.bkpcp.top/jj/zzt
 中天新闻,https://smart.pendy.dpdns.org/Smart.php
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
@@ -363,6 +363,7 @@ CETV4,http://mingjd.cn:7077/rtp/239.3.1.56:4120
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
@@ -371,6 +372,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 J2,http://j.s.bkpcp.top/jj/2j
 J2,http://php.jdshipin.com/TVOD/iptv.php
 Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php
+Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
@@ -411,6 +413,13 @@ CHC高清电影,http://eastscreen.tv/ooooo.php?id=chchd
 淘娱乐,http://dsj.motem.top:8880/bptv/10000100000000050000000003887499.m3u8
 淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 淘电影,http://dsj.motem.top:8880/bptv/10000100000000050000000003887498.m3u8
+神电影✔原,http://zzy789.xyz/douyu1.php?id=747764
+冰冰小剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
+冰冰小剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
+刀刀影院✔原,http://zzy789.xyz/douyu1.php?id=747764
+女神60帧✔原,http://zzy789.xyz/douyu1.php?id=747764
+冰冰影厅✔原,http://zzy789.xyz/douyu1.php?id=74374
+经典剧集✔原,http://zzy789.xyz/douyu1.php?id=6863367
 极速经典电影1,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 极速经典电影2,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 极速经典电影3,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
@@ -422,7 +431,6 @@ CHC高清电影,http://eastscreen.tv/ooooo.php?id=chchd
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 高分电影,http://data.3g.yy.com/live/hls/1354936157/1354936157
 欧美大片,http://zzy789.xyz/douyu1.php?id=2793084#http://home.kuaidi521.com:35455/douyu/2793084
-冰冰小剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
 刀刀影院,http://zzy789.xyz/douyu1.php?id=747764
 冰冰影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
 成龙,https://live.metshop.top/huya/11342386
@@ -516,6 +524,7 @@ CCTV-5+,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000306/index.m3u8
 快乐垂钓,http://php.jdshipin.com:8880/itv6.php
 快乐垂钓,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8
 JJ斗地主,https://live.iill.top/huya/14079954
+JJ斗地主,https://live.iill.top/douyin/685317364746
 
 📚动画频道📚,#genre#
 少儿动画,http://mingjd.cn:7077/rtp/239.3.1.199:9000
