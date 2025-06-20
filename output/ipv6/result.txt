@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-20 18:56:00,https://live.iill.top/huya/17091681
+2025-06-21 06:41:17,https://live.iill.top/huya/17091681
 
 📚音乐📚,#genre#
 音乐小石榴,https://live.iill.top/huya/17091681
@@ -277,6 +277,7 @@ CETV4,http://mingjd.cn:7077/rtp/239.3.1.56:4120
 
 📚北京频道📚,#genre#
 北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+北京新闻,https://ls.qingting.fm/live/339/64k.m3u8#https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1750193954&sign=5a757c00fd369a1fc86e070757a17139#https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1750276813&sign=078e368b32768b311510ba95e3789c0e#https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8#http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8#http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8#http://iptv.huuc.edu.cn/hls/btv9hd.m3u8#http://yc.myds.me:35455/bptv/10000100000000050000000003870780.m3u8#https://brtv-radiolive.rbc.cn/alive/fm945.m3u8#https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1750366756&sign=2c1f424414306c14b7620501013ae0ef
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
 北京新闻,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
 北京生活,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
@@ -368,7 +369,6 @@ CETV4,http://mingjd.cn:7077/rtp/239.3.1.56:4120
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
@@ -377,7 +377,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 J2,http://j.s.bkpcp.top/jj/2j
 J2,http://php.jdshipin.com/TVOD/iptv.php
 Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php
-Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
@@ -392,6 +391,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 靖天资讯,https://tv.iill.top/litv/4gtv-4gtv065
 
 📚电影频道📚,#genre#
+邵氏影院,http://43.138.170.29:35455/douyu/4246519#http://zzy789.xyz/douyu1.php?id=4246519#http://111.67.193.2:35455/douyu/4246519#http://home.kuaidi521.com:35455/douyu/4246519
 邵氏影院,https://www.goodiptv.club/douyu/4246519
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://mtw.so/5NPX0U
@@ -529,7 +529,6 @@ CCTV-5+,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000306/index.m3u8
 快乐垂钓,http://php.jdshipin.com:8880/itv6.php
 快乐垂钓,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8
 JJ斗地主,https://live.iill.top/huya/14079954
-JJ斗地主,https://live.iill.top/douyin/jjworld
 
 📚动画频道📚,#genre#
 少儿动画,http://mingjd.cn:7077/rtp/239.3.1.199:9000
