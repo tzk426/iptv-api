@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/tzk426/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🕘️更新时间",2025-06-26 19:01:10
+#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🕘️更新时间",2025-06-27 06:43:56
 https://live.iill.top/huya/17091681
 #EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="📚音乐📚",音乐小石榴
 https://live.iill.top/huya/17091681
@@ -533,6 +533,8 @@ http://171.15.18.199:8180/TV00000000000000000034@HHZT
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📚卫视频道📚",云南卫视
 http://z.b.bkpcp.top/m.php?id=ynws
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卡酷少儿.png" group-title="📚北京频道📚",北京卡酷少儿
+https://iptv.mydiver.eu.org/live/encrypted/ZDE5M2RlYTU4MDMwNzYxOTNjMDA3Yjc1ZGQ1ZTFmYTQ6YTMwZjI4ZjAwYjdkYTQzMWJmMzNlMzNmZTFlZmU2OTkzYjFiODU1YjEyMmE3NzY2OTJmMzZmODFlMTYyMTMxN2ViODMwZjE4ZDNjMjEyNjViNzUxNzkxMjhkZDVmYTJhZmNlN2UwMGQ2Y2U5NDRlZjQ1MzM3NmYxYjQzZjk4OWFjYWE1N2U0M2VjZjNkYjExNmQ2NDY0YzlkNmI1NWM5N2UyYjZiYTNlNDc2ZjI5Y2FhNzkzZmViMmVlNGMyMjc2OTYzYmEzZjU0N2I1MTI3MGI4ODY4ZDI3NTlhZWVmOWMyOGM0M2M0Yzg0MzE2N2UwODhmYzhmNjk4YzQ0MjgzYTI2NWNkMDdkODI3ZDVkZDBiMmNiM2E1ZmI0MGI3YzBjNDVmN2Q3N2I3Njk3OWM3OWVmNTA5NTI2ZDFiYjIzOWUxZjU1MDliM2ZkYWIzZTljN2Q4ODZmODc1ZTA3ZDk4ZWQ2NWJiMjc2ZDQ4OWE4ZTllMzQ2Zjc5NjAzZTUwYjMyMjhmNzg4NjI0MzIwM2I1Y2JhZWQ0MmViYTBiNGVjNTg?username=tg_luly1r0j
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="📚北京频道📚",北京新闻
 http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="📚北京频道📚",北京新闻
@@ -705,8 +707,6 @@ http://cdn.132.us.kg/live/fhzw/stream.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="📚港澳台📚",TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="📚港澳台📚",TVBS亚洲
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="📚港澳台📚",香港卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="📚港澳台📚",香港卫视
@@ -723,8 +723,6 @@ http://j.s.bkpcp.top/jj/2j
 http://php.jdshipin.com/TVOD/iptv.php
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Viutv.png" group-title="📚港澳台📚",Viutv
 http://php.jdshipin.com:8880/TVOD/iptv.php
-#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Viutv.png" group-title="📚港澳台📚",Viutv
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立台湾.png" group-title="📚港澳台📚",三立台湾
 https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="📚港澳台📚",无线新闻
@@ -1025,8 +1023,6 @@ http://php.jdshipin.com:8880/itv6.php
 http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="📚体育频道📚",JJ斗地主
 https://live.iill.top/huya/14079954
-#EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="📚体育频道📚",JJ斗地主
-https://live.iill.top/douyin/jjworld
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="📚动画频道📚",少儿动画
 http://mingjd.cn:7077/rtp/239.3.1.199:9000
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="📚动画频道📚",动漫秀场
@@ -1149,6 +1145,8 @@ http://gat.bkpcp.top/ymg.php?id=shys
 https://www.freetv.top/migu/617290047.m3u8?migutoken=86c02ad0875d5cc49d77bcc8bdb628f2c9d508ffc323b964a03c8f92dde4afafa0345cf5a8fefbdf915c748e3d11c6c18e27ae1e21a609cec31a45e6c437db26a7a243625f9cf35c271171a22c
 #EXTINF:-1 tvg-name="上海第一财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海第一财经.png" group-title="📚综合频道📚",上海第一财经
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="上海第一财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海第一财经.png" group-title="📚综合频道📚",上海第一财经
+https://iptv.mydiver.eu.org/live/encrypted/ZDNiZjRjODBhNmFlOWY4ZmI5NmQ4OTEwZWE2MzU5YzM6MGQ0ZGI5ZWEzMzA1NDFjMDJiYzlkM2E5YmE2NzU1OGY2Yzk4MWE5ZjFjZmQzMjNiZWFiYTNhMTMyZGUzNTNiOWVhNDc0OTFlZWVjNzNiMjgzYjg3NDIwNWNmMzVlMTVmODIyOTdkZGY5N2YxYzQ3MzFiZmZmNzZjOWQwYmY3MjE0YTY0MDA2NjUwYTUwMWU0NzhhNDJkNzk0M2FjNjhmZjE2YTE3MGVjMGExYmI5YzYxYzkxYjNmNDQxZWI1MTEzNjUwYzlkNDg5OGUxOWMyZTg4ZWFkMDA5ODQzYTJjOTcwNTk1MzAxYzliODkxNmQzMDYwYTcwZTQ0MTAxZDEwZDdkNmZkMmY2OTdlMGQ4NTViNWE1NDcyZWJmMWYzODE5YzdmODY3OWZjZmJjNzViY2Y0ODlkZGI3MWI5MDE0ODhlZTNkMDdmMjcyOWRkNWJiYTU0OWVjZDdlMDY4N2QwMmY3YjZkYjgzMGQxMGJiYmIxOTk4Mjc4YjE3N2Y1YzM5OWZmM2ExZmEzNjA3NjZkMWI3YzU1YzNkZmJhMWRhODc0ZDg5YmQzODMxYmY5ODg5ZjBmZGU0NzkxNjczYWUwNTVjMmU1YjhhMzAzYjg4OWY3MzkxMjdmNTA5YjYwNTY1MGE2Y2YyZTcwODg5OWExN2E1YjMwYjk4YzcxNmYxMjEwOWFhZmRlMDQ4Mjc5YjhhNmJjYzYzMGRhMDdlNWU4Yw?username=tg_luly1r0j
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="📚综合频道📚",法治天地
 http://tvbox6.icu/tv/migu.php?id=fztd
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="📚综合频道📚",法治天地
@@ -1187,6 +1185,8 @@ http://z.b.bkpcp.top/m.php?id=jsys
 https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359d68a61c6d91.ctv
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏国际.png" group-title="📚综合频道📚",江苏国际
 http://tvbox6.icu/tv/migu.php?id=jsgj
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏国际.png" group-title="📚综合频道📚",江苏国际
+https://iptv.mydiver.eu.org/live/encrypted/YzQ0NGE3MDczMDBmMTQzNDhkY2FlMzU1YjgwMDU0ODU6NzkwYzVhMzQxYWRmMmFiYzZhOTE2ZTY2YWYxYzM0NTQ5NmM5NTcxMmEzMDYxMTUzZjJlZDFiNzc3OTc2ODhkZDAyOTBiNDU5ZTZiMGFiZjA1OTNlNDBjNzkxNDE1Yzg5NzU1Mzg1ZTMzOWQ5MDY0YTQyYjllZTYwZDZkODhhYjlmMmIyNDk4YzBjOGZiMTU5ZTU0MWViNzJhZTZlYmFlYmIxZTVjY2Q2ODgxNDA1YmI4Y2EwN2I0NjI4ZWUzOGNhZDU0ZDYyZmNmYjc0MDZlMmI5YmZlMWUzYmE5ODdiOTVmM2Q3NTE1Mjc1MmZjZmUwZDljN2ExMTI0YWVlYTA1NjhhYTg5MTk4OTc1ZDliMjZjZjQ0NTUyNmU1MWI3MTYyNmRjMDZmNjg5NDc0NWZlZTI1M2NmNjA5OTE5NWE2MjY1YzdjY2MyN2RlZjZkYzkyOWI2YmE0OWVhNjAwNmMyMDE1YjliMjYxZGE0MTExZDBkZjUxZjMzYmMwN2RmOTEzZDFjZjAxMzJiMDU5NGQxYWYyYmQyYzBmYWU0NDA5ZjAyYzI5NWM4NDhmYWM0N2NkM2EzM2I5YjAyNWIxYjUyMmY3ZjMwZTQ0ZjU0ZGFlNjEzNDcyMjEyODcxYjc2MzQ3NjUwYmQ2NDRkMDUzNzVmYWI3YjU3M2I5NjE3ZmEyNTA2MDY2MWU4ZDAyZGRkZThjNTIwOTI3OWIxMDc1NWM5NA?username=tg_luly1r0j
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏教育.png" group-title="📚综合频道📚",江苏教育
 http://tvbox6.icu/tv/migu.php?id=jsjy
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏教育.png" group-title="📚综合频道📚",江苏教育
@@ -1203,10 +1203,16 @@ https://stream1.freetv.fun/cf1cb04544b8324a474a732a218abf171a9a5f5df5d9709f68390
 http://tvbox6.icu/tv/migu.php?id=cbajd
 #EXTINF:-1 tvg-name="掼蛋精英赛" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/掼蛋精英赛.png" group-title="📚综合频道📚",掼蛋精英赛
 http://tvbox6.icu/tv/migu.php?id=gdjys
+#EXTINF:-1 tvg-name="掼蛋精英赛" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/掼蛋精英赛.png" group-title="📚综合频道📚",掼蛋精英赛
+https://iptv.mydiver.eu.org/live/encrypted/YTRiMmU4YWVjYWIzYzY0YzAwY2YwODcyZWU1YmU2ZjQ6ODk0Yjc2YmY3OGUyMTk0NTIyMjlmZjRmN2I4ZGZlMzMyZTIwYzczNzZmZmQ3YWJiMWViZDdhOGZhNDU4Y2E1ZDIzYmI2ZTkwOWU5MThjMDBlNTM1YjBjNzg0MjdmY2I5ZWJhMDEyZWJiNWJmNTQ4OWUwNDNhMjI3MzkwNzU0NjUxYjdiNTllNWVlMGY2MWNlYTZmNTY2MzEwYmM3MTMzODBhZjVlZjVhZDRhOTkyNjRjOTNkNTA2M2RlOGM0YWVlMTEyZDdiOTQzNTI3YzAwNmNmODM3ZjUwZTVmMWRhMTE5ZDI5YjkzYjgzYmUwZGRlNWI4Y2EwMWJjN2ViMjI4M2U3YmZjNDQ3ZmQ0MGMyMGU1MTg2NzJiOWJhOTIwMzQwZTA4ZjE1NzZlOTFjNGFmNDAyMTFlM2RlZWNmYzQ0YWY1M2I1YjVkNTZkMjA5ZjMwZWM2OWQ1MjkxM2RlN2Y4YmZmZTAwMTIyODYyNWQzNzkxZGY0YzRjNTg4YWM4MjZhMzc5ODQ3NGY1YTMwYWI3YWRkMzYwN2VmYTY0MDZjZjQ2ZjFhNTVjNjkwZGNhNGIwN2QxYjQzNTRmZTVkODc2MzQxMGNjMTdjODUxODQ2Zjg4NDc2NzQxMjIzY2I5NWFiMThmOWJkY2JjZjJjN2YxMzY5ZGEwYzMxODY1NmJkNzdmNDUwNjk2NmExNTM3OTliYTUzNDA2MDViNTg5YTBjYg?username=tg_luly1r0j
 #EXTINF:-1 tvg-name="周杰伦现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周杰伦现场.png" group-title="📚综合频道📚",周杰伦现场
 http://tvbox6.icu/tv/migu.php?id=zjlxc
+#EXTINF:-1 tvg-name="周杰伦现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周杰伦现场.png" group-title="📚综合频道📚",周杰伦现场
+https://iptv.mydiver.eu.org/live/encrypted/ZDJmNTQyYTcyNTQyNGZjNDE4YzY1MDRhY2I2ODNlZTU6ZGY1MjUwZjFkYTFjODViMTU3MWYzMDBkNTUyNjc2NzlmZTVhNGVkNzFhYWNmMDg0ZGJmMGE3YzZjZTBhYzQ0NWQ0N2I5YWE4ZGJhMjQ5ZjM5Y2RlOGQ1ODhkMWMyYjA5NDZlYzBiZDlmZGVjOWZiNWY3Y2IxZDZjZTU2OWI4MDk2MTE1N2YxNzFmMDU2MDEyYTIzMDVhODNmZGQ4NThjMTgyZTI4OThmOTAyZGFjYzMwZDA2YmU0NTI2ZWVjNTI1YzdmZGE0MGM3MzQyYzZiM2IzYjA0NTI2MDM0MWU3YjNjMmI2YzYzYTI1YzFiYzBlZmI5MGY0YjM0N2Q4ZjZlOGUyOThhODQ0YzlmZjI0NDVlMzEzMWMxY2YzZWM1MDdjYTdlZDJlNWYzYmJhOWExM2FlMjM3ZTc3OThjMGRkMzA5ZjQ0MmFlZjkyOWVlYWJkOWExMmU0NTY2MTVmYzdlMjRlYmE3MGU0ZGY3NzBkMjQzMzQ5MjNkMGZiMzRkZGJiM2NkNWRkNGYwZmZkNGQxZWY4ZmExZWNlNjA0MTY1YTFjZmIyNTRmNzg0YjhkZGQxNGUyYjY2NTg4MjQ4YmY0YWQ5OWY0ZGJhZmYyN2IxYzU0MjlkMjQyYzVlZjU1NDEyYzU4MGRjOTI4MmYwOTdhMDVkMTAxMWM5ZTFiNGEwYTAxYmU0OGNhMDExYmQ0YzJiNjEwNWZhZTViZjA4YWI5Nw?username=tg_luly1r0j
 #EXTINF:-1 tvg-name="最强综艺趴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/最强综艺趴.png" group-title="📚综合频道📚",最强综艺趴
 http://tvbox6.icu/tv/migu.php?id=zqzyp
+#EXTINF:-1 tvg-name="最强综艺趴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/最强综艺趴.png" group-title="📚综合频道📚",最强综艺趴
+https://iptv.mydiver.eu.org/live/encrypted/MjkxNzAxYzhiNjlhNjZiYjZhZTNhMjk0N2I3Y2RjNTE6YjgyOTA4ZDM3NzBmZDU3YzRkZjk2ZGRkZThlNDVlODdhNDExNTNmNWEyMzZmMjQ5NTlhZDJiOGRhOGNiZTViNzkwMGZmYTZlYTQ3NTY0MjllOGI5ZmU3NzYzMDI3NDYyMGU2YmZhMWYwMmUyNDk2Yzc4MDA1MDE4MzM5ZDM4ZjdlZTNmNTJiOWM1MzE3Zjk4YzExNWU5ZDgyOTdkZDBiMDUxNDg0M2QwYWQ0ZTg4ZDE5YTAyYjc1NzhjMjA4MWY0Y2YwMDliODQzMWI2Y2FkNTFkYjlmOTk0MTY4MjYzNWQzOWQ2NDdhZGQ4M2VjYTJiMDBhNTc5NDc2ZDhmNDBlYjk1OWFlMjhlOTVmMzQ5ODMzNWJiZTYyOWI5OTdlNDQyZjk4MTllNDJlNzQ3MjUwM2VjZTkzNjhiMzY0YmM3NWVkOGVkY2NjNjYzZTgxOGI4OTNmOGZlYWQyNWEyYTY4MWE2OTU1MGUxOTZhOTRkMzg3M2JjYmM5ZDc1OGFlODYwMGVkNDVjZjI4ZGI2NjNkNTQxNTAwMDcwMGI4YTQzNzhiY2VkNDFjMjcyNTlkNWVjNDFhNjQyMGI2OGQ4ODdlZmU5MGQ4MzBlY2I5ZTgwYTZhNDcyMDM3Nzg1NGI2Yjg1N2U1MTFiZDAxMGM2Y2JjMGZjNDRmODJiZmVmYzgyYTZhMGQ5NGQ2ODE2ZGIzNWEzNDg1MWJlNzJiYmI0NDk1Yw?username=tg_luly1r0j
 #EXTINF:-1 tvg-name="嵊州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嵊州新闻综合.png" group-title="📚综合频道📚",嵊州新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-name="嵊州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嵊州新闻综合.png" group-title="📚综合频道📚",嵊州新闻综合
@@ -1349,10 +1355,18 @@ http://z.b.bkpcp.top/m.php?id=njsb
 http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 #EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/连云港新闻综合.png" group-title="📚综合频道📚",连云港新闻综合
 http://z.b.bkpcp.top/m.php?id=lygxwzh
+#EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/连云港新闻综合.png" group-title="📚综合频道📚",连云港新闻综合
+https://iptv.mydiver.eu.org/live/encrypted/YTY3M2VhZWI4NGJiZjRiMzYzNzQ2ZjcwZDAzYzkzOWM6Mjg3MTVlOTliZWRlZDA4OGVjZDNmZTVhZjAyMGU4YzBhNGYyZmUxY2NkYWYzYTlmNjcyMDMxNDEyZTkwMzkxN2NjZmRmZGY2ODdlMjJkMThiNmNiZjk5Njg2ZjQ0M2M1YzAxMTM4ZWNmNmJjMjQ4ZGFkN2UxY2QxY2I5NDRkMzljZWUyZTkzMWFjNTI4YThiNTk1ZGVjMDM4ZmQxY2Y5NWI4NGU1MTk1ZDFlOWFiODIzMmRiYWI1N2M3OTVhYzcyZjYyMjcxZTMwYTk4NzkyMDZhMGExYzhhZGJiMzVhNGJiNTIzN2EyZjczNzQ5MGM3Y2VjMzk5YjEwNGM2OWNlN2JiNzFkZjQ5ZDFhMTNiMmFmYjRmYTZlNDUzZjA0YzlmOTIyOWU1NDBlZjJjODUzZGNiZjdiYmM0YWJiODY3Y2QxZjMzMjU3MTJkYmUzNzdjY2NkMTRmYzFlMTc3MTFiNDU3ZDE5YjE2MDZlM2NiN2VhZmVjZWMwYTAwYjQ4MDQ3NmUwMjEwOGU5ZjExYjkyOGNmOGNmYTcxZWI0YjM3YzU2YjQ4YTA3Y2Y2M2Y1NzY5YTg3ZmIzYjllMTBhZDM3YmRlZGNlYTBhZjVhNDBhMDcxZTU5M2EwNTNkOWU0N2RjNGZlM2M5NDZiYTc1NzE4MmY5MDE5NDk5YWU2YTMzOWEwZTEwZDUxNWNhM2U5MTEzOGY4MTAzYjgzNGUzYThlMQ?username=tg_luly1r0j
 #EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泰州新闻综合.png" group-title="📚综合频道📚",泰州新闻综合
 http://tvbox6.icu/tv/migu.php?id=tzl
+#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泰州新闻综合.png" group-title="📚综合频道📚",泰州新闻综合
+https://iptv.mydiver.eu.org/live/encrypted/MzFjNzI4ZDI0ZTY4NGQ1MjRjNzk4OTk3ZmFmNWFlMDI6YWMyYjg1YzQzZDQxNDQwYTIzNWZkNGE5NWRlZTFhYzViODBhN2M1MWRkYzkzNTdkZDU4Zjk5YWEzYzVlNjhmZjAwOTVmOGEzOWVmMDQ4Y2FjODhiZmZhYmY1MjY4NTk2M2QwMDVmZTY5ZjBiZjcyNDE0M2Y5YmU5NDZiZmY1MTA3MDhkNmYyNDAyNmJlMGFjMzU4MTc2OGU1YTc4OGM3YmVmOThkOThkNGJiNWMzMzZhMjQzNDA0OTFmYTJlYjYzNGI0MDc1MDg2YTZhNzIzNjFhYTRlMmZlNjFlNzUxNjk0NjFhMjM0ZWYyNTAyZDU1MWNjNTk4YTc5YjkwMWY0ZTNkMGIyOWQzZDM5YzIxN2VlZmVjZmNmNTE4Yjg0ZmNmNWZlMTU1MzZhYTM0ZmE1MzQ2ZGZkMDhiMTQ0MmY2MjUwYjYzNjJmOTY2ZWY1MDYzODIwYWUxM2ZjZDdkOWU4YmFmYWVkZjQ3ZTZjMDRjMTU5YzQxY2I5ZmU3YTdmOTMyMWFhMjQwZTBhZmZiZWY1ZWYzMDNlNGUxZTQzZjU0Njk0Y2ZlN2I4NTIxM2YzOGExZWZlOThkZmM5NjE1MTRhYjRhYjkzNDk5YjUwNDBmNjBlZTgwNWVjMTQ3NWIyNTk1MjU1MzAzYTIyOTc0OWRhMTQxMmY4NGY5ZTFhY2RhZjY1NWZkMjNkMDM5NjU0MzdmOTFmNDJlZWMzODc1YTNlNg?username=tg_luly1r0j
 #EXTINF:-1 tvg-name="宿迁新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宿迁新闻综合.png" group-title="📚综合频道📚",宿迁新闻综合
 http://tvbox6.icu/tv/migu.php?id=sqxwzh
+#EXTINF:-1 tvg-name="宿迁新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宿迁新闻综合.png" group-title="📚综合频道📚",宿迁新闻综合
+https://iptv.mydiver.eu.org/live/encrypted/N2Y0MWNlZjg1Yjg0Njk4NTI5ODE1NTVmN2MyNTI3ZDE6MDc0NDlmODU5OTM5NWNiMTJkYzU0ZTNlMjQ1MDJmN2JiODM2M2I5MjUyMTA4NzI3MjQ3NTMxMjBiOWE3NWM5NzNhOWI0ZDFiODhlZTVkMzNkYmIxZmM4ODRjMDc5MDFjMzc4MjA3ZTFlYmQ3OGExOTNjOTNhNDQyN2JlMDc0ZDlmMjRkMmNlYTcxOTIyYWM1N2VmYTExMmY2M2YzMzM4NTE2MWEwNzM3MTExMDM5ODg5ZmEyNzI4NjIwMTUzZmZiMDdjMmM4ZGM3YmU3OWVkNWRkZmFjN2E5ODAwNzljMjc1YjgwNDNkNDJjZDEwZTFiOWM5ZmZjOWI4MDIwYTg2ZTg2YzQ1OTUxZGU1ODIwZWRjZWQzYzQ1ZmMwMjViM2UwNDE2ZDQyYjA5YzhiYTY5ZjRkYjI3NzNmY2E0OWQyYTc0NWE0Zjc2ZTU1MDVkYzA1MDZkNWZmNTM3ZTIwMzg3MTNhMjY0NzM1MjcyZTRkNjUxN2Y0MGM1NzFjYTU0YzMyNjY4MGRiODI2ZDlmYjhjMjVjNWEyZjkyODgwMzcxZDhmYjAwZTViM2M1YzZkZTcxYWMxYTQ3NmIxYmFiNDlkMDkwZDM4NzkzYjdmZGI4MzIyM2Y4MTE3YTY5YjhjYWUzYzRiOGUyYzEzYjI4NTEzZDhjZTQzMzk0NzRkMWIzZWEwMThjOWQ0YjIyMmVjNDllYzI5NDE1YmExYjRkODQ4NA?username=tg_luly1r0j
+#EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/徐州新闻综合.png" group-title="📚综合频道📚",徐州新闻综合
+https://iptv.mydiver.eu.org/live/encrypted/YWY3NjJhODk5NjFiYzZjODAzZGZjNDQwMDljNjhjNmM6NGYzNjhmNzNlNjE2MjI5N2QzOTY2N2RlYWI5MGNiNDJkNjdiMjE0ZTlmMjhjNGU1OGE3NzE5ZWEwMWFjNDI2YmE0MGYzMGE4MTRhMGNmZDE4MjVjYjIzNWE1MGVlNmU0NGVmMjkxNWQ1MjU2M2ZlNzc1Y2FmZjQxN2ViMDgwOGRjYTQ3ZTdiOTdjNGQzMjg2ZDNkMDFhZjEyNTAwM2JkNmY3YWYzMzVkZWEzMWVjYTBhODBkOGNiMjVhZDAzMGFkNDEwYjQ5OGI4NDg0MGIzMDRmZTEwZmE1OTBhOTA3MGZlZTVlMGI5YjRlOTBjODE3MzE0OTU3ZGVmZGY3YzQ5OWM5YjUzYTg5NmY5ZjFjMWVjYzM5ODA4MThjOGQ0ZDAxZDI5NGY3OGFjM2QzNTg4ODEwOWY5MDM5OGZiNzY2ZGRhN2Q2ZDZhZmQwZTlkZTMxYzU3ZmM2MDc4NDA1ZjNiMDMxOWNlY2EwOWUzYTBiNDY4ZmE2MjcyMGZhOGQ0NWNmNTgzNDYwMDJmMDg2ZDBkNzg0NGExM2Q1OGYwNDJiNGJlN2ZiNzFkNmFjMGY5MzNmMTFhMGY1MjI2Y2E0ODVmNWVhNzg5YzVlOWM1ZWM2ZGE3ZjUwYzAwYzRlNWZmMzRiZDE2YzRjNzc3OTliMjIyMzdkOTIzYTI4YTIzZTYxZWJhOGFkNjcxY2Q3OWViZmNiNDYwNzIwNDhjMWY3ZmFjNQ?username=tg_luly1r0j
 #EXTINF:-1 tvg-name="姜堰新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/姜堰新闻综合.png" group-title="📚综合频道📚",姜堰新闻综合
 https://jiangyan-tv-replay.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
 #EXTINF:-1 tvg-name="和平精英赛事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/和平精英赛事.png" group-title="📚综合频道📚",和平精英赛事
