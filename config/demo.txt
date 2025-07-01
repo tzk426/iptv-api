@@ -544,8 +544,7 @@ yoo电影,http://dns.yiandrive.com:15907/huya/11352876
 斗鱼搞笑HD5,,http://zzy789.xyz/douyu1.php?id=8737695
 
 📚体育频道📚,#genre#
-CCTV-5
-CCTV-5+
+
 广东体育
 纬来体育
 五星体育
