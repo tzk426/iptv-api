@@ -3,12 +3,10 @@
 
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/全网通
 https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u
- https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/live_ipv4.m3u
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/webview.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/网络收集.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
 https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt
 https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt	
-https://gh.tryxd.cn/https://raw.githubusercontent.com//alantang1977/yuanzl77/refs/heads/main/live.m3u
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/中国IPTV
