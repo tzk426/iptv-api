@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-06 18:57:24,https://live.iill.top/huya/17091681
+2025-07-07 06:51:31,https://live.iill.top/huya/17091681
 
 📚音乐📚,#genre#
 音乐小石榴,https://live.iill.top/huya/17091681
@@ -376,8 +376,8 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 双鸭山综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 
 📚港澳台📚,#genre#
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 明珠台,http://j.s.bkpcp.top/jj/zzt
 明珠台,https://live.tvfix.org/live/pearl/index.m3u8
 中天新闻,https://smart.pendy.dpdns.org/Smart.php
@@ -399,7 +399,7 @@ TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php
 J2,http://j.s.bkpcp.top/jj/2j
-J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+J2,http://php.jdshipin.com:8880/smt.php
 Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php
 Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
@@ -766,8 +766,6 @@ CBA经典,http://tvbox6.icu/tv/migu.php?id=cbajd
 嘉兴文化影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235447/1/index.m3u8?fmt=ts2hls#http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60eb8e324f416aa3b26dda7679d920-0-22dc7efa8452d0b0665c15eeed83609d#http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=1731132064-c7eae0739d0543f2844c4fa2642fc4f1-0-2f0b0e7b664ec7423bfb4ce111dcd0fe#https://stream1.freetv.fun/0c95e8ede48048f1b620ea3e5a451ebbfe8b8d9aca11d655e63886b9f515f02e.m3u8
 嘉兴文化影视,http://[2409:8087:2801:22:100::75]/wh7f454c46tw1164986760_1595237598/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233022/index.m3u8
 嘉兴公共,http://[2409:8087:2801:20:100::44]/wh7f454c46tw1139275931_-252366378/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233019/index.m3u8
-上虞新闻,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-上虞新商,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 绍兴公共,https://stream1.freetv.fun/shao-xing-gong-gong-2.m3u8
 绍兴公共,https://stream1.freetv.fun/shao-xing-gong-gong-7.m3u8
@@ -781,8 +779,8 @@ CBA经典,http://tvbox6.icu/tv/migu.php?id=cbajd
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-1.m3u8
-上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-5.m3u8
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed&quot;
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
