@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-09 19:19:46,https://live.iill.top/huya/17091681
+2025-07-10 06:58:06,https://live.iill.top/huya/17091681
 
 📚音乐📚,#genre#
 音乐小石榴,https://live.iill.top/huya/17091681
@@ -377,8 +377,8 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 双鸭山综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 
 📚港澳台📚,#genre#
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 明珠台,http://j.s.bkpcp.top/jj/zzt
 明珠台,https://live.tvfix.org/live/pearl/index.m3u8
 中天新闻,https://smart.pendy.dpdns.org/Smart.php
@@ -400,7 +400,7 @@ TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php
 J2,http://j.s.bkpcp.top/jj/2j
-J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+J2,http://php.jdshipin.com:8880/smt.php
 Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php
 Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
