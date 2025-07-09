@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-09 06:51:55,https://live.iill.top/huya/17091681
+2025-07-09 19:19:46,https://live.iill.top/huya/17091681
 
 📚音乐📚,#genre#
 音乐小石榴,https://live.iill.top/huya/17091681
@@ -50,6 +50,7 @@ CCTV-5,http://goo.bkpcp.top/mg/cctv5
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000305/index.m3u8
 CCTV-5+,http://goo.bkpcp.top/mg/cctv5p
+CCTV-5+,http://171.15.18.199:8180/TV00000000000000000016@HHZT
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 CCTV-5+,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000306/index.m3u8
 CCTV-6,http://106.52.196.79:80/TV/mui.php?id=cctv6
@@ -382,7 +383,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 明珠台,https://live.tvfix.org/live/pearl/index.m3u8
 中天新闻,https://smart.pendy.dpdns.org/Smart.php
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
