@@ -1,5 +1,6 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
+https://d.kstore.dev/download/13670/cs.txt
 https://tvv.tw/https://raw.githubusercontent.com/tushen6/lzxw/refs/heads/main/TV/gatv.txt
 https://raw.githubusercontent.com/tzk426/collect-tv-txt/refs/heads/main/bbxx_lite.txt
 https://d.kstore.dev/download/12792/ln.txt
