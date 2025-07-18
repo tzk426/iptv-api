@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/tzk426/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🕘️更新时间",2025-07-18 18:52:10
+#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🕘️更新时间",2025-07-19 06:46:47
 https://live.iill.top/huya/17091681
 #EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="📚音乐📚",音乐小石榴
 https://live.iill.top/huya/17091681
@@ -767,12 +767,152 @@ http://2099.tv12.xyz/368_1752460352091.m3u8
 http://2099.tv12.xyz/1998_1752460352091.m3u8
 #EXTINF:-1 tvg-name="红色轮播台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/红色轮播台.png" group-title="📚电影频道📚",红色轮播台
 http://2099.tv12.xyz/1999_1752460352091.m3u8
+#EXTINF:-1 tvg-name="电影 星爷" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 星爷.png" group-title="📚电影频道📚",电影 星爷
+https://live.iill.top/huya/11342412
+#EXTINF:-1 tvg-name="电影 星爷粤语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 星爷粤语.png" group-title="📚电影频道📚",电影 星爷粤语
+https://live.iill.top/huya/11336587
+#EXTINF:-1 tvg-name="电影 发哥" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 发哥.png" group-title="📚电影频道📚",电影 发哥
+https://live.iill.top/huya/11342387
+#EXTINF:-1 tvg-name="电影 五福星" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 五福星.png" group-title="📚电影频道📚",电影 五福星
+https://live.iill.top/huya/11282233
+#EXTINF:-1 tvg-name="电影 周星星" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 周星星.png" group-title="📚电影频道📚",电影 周星星
+https://live.iill.top/huya/11336587
+#EXTINF:-1 tvg-name="电影 李连杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 李连杰.png" group-title="📚电影频道📚",电影 李连杰
+https://live.iill.top/huya/11342390
+#EXTINF:-1 tvg-name="电影 洪金宝" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 洪金宝.png" group-title="📚电影频道📚",电影 洪金宝
+https://live.iill.top/huya/11279251
+#EXTINF:-1 tvg-name="电影 梁家辉" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 梁家辉.png" group-title="📚电影频道📚",电影 梁家辉
+https://live.iill.top/huya/11342429
+#EXTINF:-1 tvg-name="电影 许冠英" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 许冠英.png" group-title="📚电影频道📚",电影 许冠英
+https://live.iill.top/huya/11601972
+#EXTINF:-1 tvg-name="电影 刘德华" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 刘德华.png" group-title="📚电影频道📚",电影 刘德华
+https://live.iill.top/huya/11342424
+#EXTINF:-1 tvg-name="电影 斯坦森" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 斯坦森.png" group-title="📚电影频道📚",电影 斯坦森
+https://live.iill.top/huya/21059588
+#EXTINF:-1 tvg-name="电影 成龙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 成龙.png" group-title="📚电影频道📚",电影 成龙
+https://live.iill.top/huya/11342386
+#EXTINF:-1 tvg-name="电影 王晶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 王晶.png" group-title="📚电影频道📚",电影 王晶
+https://live.iill.top/huya/11602058
+#EXTINF:-1 tvg-name="电影 黄渤" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 黄渤.png" group-title="📚电影频道📚",电影 黄渤
+https://live.iill.top/huya/11352876
+#EXTINF:-1 tvg-name="电影 强森" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 强森.png" group-title="📚电影频道📚",电影 强森
+https://live.iill.top/huya/21059581
+#EXTINF:-1 tvg-name="电影 漫威" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 漫威.png" group-title="📚电影频道📚",电影 漫威
+https://live.iill.top/huya/11602034
 #EXTINF:-1 tvg-name="电影_宇宙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_宇宙.png" group-title="📚电影频道📚",电影_宇宙
 https://live.iill.top/huya/11342428
+#EXTINF:-1 tvg-name="电影 怪兽" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 怪兽.png" group-title="📚电影频道📚",电影 怪兽
+https://live.iill.top/huya/21059577
+#EXTINF:-1 tvg-name="电影 武侠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 武侠.png" group-title="📚电影频道📚",电影 武侠
+https://live.iill.top/huya/11342427
+#EXTINF:-1 tvg-name="电影 警匪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 警匪.png" group-title="📚电影频道📚",电影 警匪
+https://live.iill.top/huya/11352886
+#EXTINF:-1 tvg-name="电影 罪犯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 罪犯.png" group-title="📚电影频道📚",电影 罪犯
+https://live.iill.top/huya/11352962
+#EXTINF:-1 tvg-name="电影 枪战" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 枪战.png" group-title="📚电影频道📚",电影 枪战
+https://live.iill.top/huya/21059579
+#EXTINF:-1 tvg-name="电影 海盗" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 海盗.png" group-title="📚电影频道📚",电影 海盗
+https://live.iill.top/huya/21059595
+#EXTINF:-1 tvg-name="电影 赛车" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 赛车.png" group-title="📚电影频道📚",电影 赛车
+https://live.iill.top/huya/11279247
+#EXTINF:-1 tvg-name="电影 推荐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 推荐.png" group-title="📚电影频道📚",电影 推荐
+https://live.iill.top/huya/11602041
+#EXTINF:-1 tvg-name="电影 救援" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 救援.png" group-title="📚电影频道📚",电影 救援
+https://live.iill.top/huya/21059594
+#EXTINF:-1 tvg-name="电影 热血" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 热血.png" group-title="📚电影频道📚",电影 热血
+https://live.iill.top/huya/11352934
+#EXTINF:-1 tvg-name="电影 盗墓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 盗墓.png" group-title="📚电影频道📚",电影 盗墓
+https://live.iill.top/huya/21059552
+#EXTINF:-1 tvg-name="电影 贺岁" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 贺岁.png" group-title="📚电影频道📚",电影 贺岁
+https://live.iill.top/huya/11601971
+#EXTINF:-1 tvg-name="电影 玄幻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 玄幻.png" group-title="📚电影频道📚",电影 玄幻
+https://live.iill.top/huya/11342414
+#EXTINF:-1 tvg-name="电影 谍战" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 谍战.png" group-title="📚电影频道📚",电影 谍战
+https://live.iill.top/huya/21059585
+#EXTINF:-1 tvg-name="电影 战争" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 战争.png" group-title="📚电影频道📚",电影 战争
+https://live.iill.top/huya/21059592
+#EXTINF:-1 tvg-name="电影 喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 喜剧.png" group-title="📚电影频道📚",电影 喜剧
+https://live.iill.top/huya/11352877
+#EXTINF:-1 tvg-name="电影 港片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 港片.png" group-title="📚电影频道📚",电影 港片
+https://live.iill.top/huya/11602043
+#EXTINF:-1 tvg-name="电影 国产" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 国产.png" group-title="📚电影频道📚",电影 国产
+https://live.iill.top/huya/11352973
+#EXTINF:-1 tvg-name="电影 小鬼头" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 小鬼头.png" group-title="📚电影频道📚",电影 小鬼头
+https://live.iill.top/huya/11352963
+#EXTINF:-1 tvg-name="电影 八点档" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 八点档.png" group-title="📚电影频道📚",电影 八点档
+https://live.iill.top/huya/880261
+#EXTINF:-1 tvg-name="电影 蜘蛛侠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 蜘蛛侠.png" group-title="📚电影频道📚",电影 蜘蛛侠
+https://live.iill.top/huya/21059599
+#EXTINF:-1 tvg-name="电影 贺岁片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 贺岁片.png" group-title="📚电影频道📚",电影 贺岁片
+https://live.iill.top/huya/11601986
+#EXTINF:-1 tvg-name="电影 功夫片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 功夫片.png" group-title="📚电影频道📚",电影 功夫片
+https://live.iill.top/huya/11352941
+#EXTINF:-1 tvg-name="电影_黑帮片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_黑帮片.png" group-title="📚电影频道📚",电影_黑帮片
+https://live.iill.top/huya/11336719
+#EXTINF:-1 tvg-name="电影 丧尸片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 丧尸片.png" group-title="📚电影频道📚",电影 丧尸片
+https://live.iill.top/huya/21059578
+#EXTINF:-1 tvg-name="电影 灾难片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 灾难片.png" group-title="📚电影频道📚",电影 灾难片
+https://live.iill.top/huya/11602075
+#EXTINF:-1 tvg-name="电影 谍战片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 谍战片.png" group-title="📚电影频道📚",电影 谍战片
+https://live.iill.top/huya/21059587
+#EXTINF:-1 tvg-name="电影 战争片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 战争片.png" group-title="📚电影频道📚",电影 战争片
+https://live.iill.top/huya/21059574
+#EXTINF:-1 tvg-name="电影 犯罪片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 犯罪片.png" group-title="📚电影频道📚",电影 犯罪片
+https://live.iill.top/huya/11352974
+#EXTINF:-1 tvg-name="电影 古装片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 古装片.png" group-title="📚电影频道📚",电影 古装片
+https://live.iill.top/huya/11336590
+#EXTINF:-1 tvg-name="电影 高分动作" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 高分动作.png" group-title="📚电影频道📚",电影 高分动作
+https://live.iill.top/huya/11352884
+#EXTINF:-1 tvg-name="电影 动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 动作电影.png" group-title="📚电影频道📚",电影 动作电影
+https://live.iill.top/huya/11602077
+#EXTINF:-1 tvg-name="电影 搞笑喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 搞笑喜剧.png" group-title="📚电影频道📚",电影 搞笑喜剧
+https://live.iill.top/huya/11342423
+#EXTINF:-1 tvg-name="电影 喜剧专场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 喜剧专场.png" group-title="📚电影频道📚",电影 喜剧专场
+https://live.iill.top/huya/11602044
 #EXTINF:-1 tvg-name="电影欢笑影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影欢笑影院.png" group-title="📚电影频道📚",电影欢笑影院
 https://www.goodiptv.club/huya/11352894
+#EXTINF:-1 tvg-name="电影欢笑影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影欢笑影院.png" group-title="📚电影频道📚",电影欢笑影院
+https://live.iill.top/huya/11352894
+#EXTINF:-1 tvg-name="电影 不挤影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 不挤影院.png" group-title="📚电影频道📚",电影 不挤影院
+https://live.iill.top/huya/11352897
+#EXTINF:-1 tvg-name="电影 国产悬疑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 国产悬疑.png" group-title="📚电影频道📚",电影 国产悬疑
+https://live.iill.top/huya/11342395
+#EXTINF:-1 tvg-name="电影 快意江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 快意江湖.png" group-title="📚电影频道📚",电影 快意江湖
+https://live.iill.top/huya/11342435
+#EXTINF:-1 tvg-name="电影 黑帮斗争" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 黑帮斗争.png" group-title="📚电影频道📚",电影 黑帮斗争
+https://live.iill.top/huya/11342419
+#EXTINF:-1 tvg-name="电影_古墓系列" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_古墓系列.png" group-title="📚电影频道📚",电影_古墓系列
+https://live.iill.top/huya/11352913
+#EXTINF:-1 tvg-name="电影 嫣然影厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 嫣然影厅.png" group-title="📚电影频道📚",电影 嫣然影厅
+https://live.iill.top/huya/11601977
+#EXTINF:-1 tvg-name="电影 女神系列" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 女神系列.png" group-title="📚电影频道📚",电影 女神系列
+https://live.iill.top/huya/11336571
+#EXTINF:-1 tvg-name="电影_经典女神" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_经典女神.png" group-title="📚电影频道📚",电影_经典女神
+https://live.iill.top/huya/11352909
+#EXTINF:-1 tvg-name="电影 许氏三杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 许氏三杰.png" group-title="📚电影频道📚",电影 许氏三杰
+https://live.iill.top/huya/11602033
+#EXTINF:-1 tvg-name="电影 经典港片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 经典港片.png" group-title="📚电影频道📚",电影 经典港片
+https://live.iill.top/huya/11352965
+#EXTINF:-1 tvg-name="电影 镖行天下" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 镖行天下.png" group-title="📚电影频道📚",电影 镖行天下
+https://live.iill.top/huya/11352969
+#EXTINF:-1 tvg-name="电影 高能反转" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 高能反转.png" group-title="📚电影频道📚",电影 高能反转
+https://live.iill.top/huya/11352887
+#EXTINF:-1 tvg-name="电影 喜乐影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 喜乐影院.png" group-title="📚电影频道📚",电影 喜乐影院
+https://live.iill.top/huya/21059580
+#EXTINF:-1 tvg-name="电影 蘑菇影厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 蘑菇影厅.png" group-title="📚电影频道📚",电影 蘑菇影厅
+https://live.iill.top/huya/11601981
+#EXTINF:-1 tvg-name="电影 搞笑恐怖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 搞笑恐怖.png" group-title="📚电影频道📚",电影 搞笑恐怖
+https://live.iill.top/huya/11601960
+#EXTINF:-1 tvg-name="电影 死神来了" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 死神来了.png" group-title="📚电影频道📚",电影 死神来了
+https://live.iill.top/huya/11352903
+#EXTINF:-1 tvg-name="电影 变形金刚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 变形金刚.png" group-title="📚电影频道📚",电影 变形金刚
+https://live.iill.top/huya/21059596
+#EXTINF:-1 tvg-name="电影 怪兽系列" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影 怪兽系列.png" group-title="📚电影频道📚",电影 怪兽系列
+https://live.iill.top/huya/21059554
 #EXTINF:-1 tvg-name="经典港片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典港片.png" group-title="📚电影频道📚",经典港片
 https://live.metshop.top/huya/11602043
+#EXTINF:-1 tvg-name="经典港片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典港片.png" group-title="📚电影频道📚",经典港片
+https://live.iill.top/huya/11352965
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/家庭剧场.png" group-title="📚电影频道📚",家庭剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/家庭剧场.png" group-title="📚电影频道📚",家庭剧场
