@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/tzk426/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🕘️更新时间",2025-07-25 06:56:10
+#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🕘️更新时间",2025-07-25 18:54:16
 https://live.iill.top/huya/17091681
 #EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="📚音乐📚",音乐小石榴
 https://live.iill.top/huya/17091681
@@ -706,9 +706,9 @@ https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立台湾.png" group-title="📚港澳台📚",三立台湾
 https://stream1.freetv.fun/san-li-tai-wan-6.ctv
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="📚港澳台📚",无线新闻
-https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="📚港澳台📚",无线新闻
 https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="📚港澳台📚",无线新闻
+http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="📚港澳台📚",三立新闻
 https://tv.iill.top/4gtv/229
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="📚港澳台📚",三立新闻
@@ -1394,13 +1394,7 @@ https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 #EXTINF:-1 tvg-name="苍南新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苍南新闻综合.png" group-title="📚综合频道📚",苍南新闻综合
 https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-4.ctv
 #EXTINF:-1 tvg-name="泸州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泸州新闻综合.png" group-title="📚综合频道📚",泸州新闻综合
-http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
-#EXTINF:-1 tvg-name="泸州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泸州新闻综合.png" group-title="📚综合频道📚",泸州新闻综合
 http://tvdrs.luzhoubs.com:8100/channellive/lztv1.flv
-#EXTINF:-1 tvg-name="泸州公共频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泸州公共频道.png" group-title="📚综合频道📚",泸州公共频道
-http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
-#EXTINF:-1 tvg-name="泸州科教频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泸州科教频道.png" group-title="📚综合频道📚",泸州科教频道
-http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 #EXTINF:-1 tvg-name="德阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/德阳新闻综合.png" group-title="📚综合频道📚",德阳新闻综合
 https://stream1.freetv.fun/de-yang-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-name="德阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/德阳新闻综合.png" group-title="📚综合频道📚",德阳新闻综合
