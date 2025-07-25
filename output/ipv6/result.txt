@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-25 18:54:16,https://live.iill.top/huya/17091681
+2025-07-26 06:47:19,https://live.iill.top/huya/17091681
 
 📚音乐📚,#genre#
 音乐小石榴,https://live.iill.top/huya/17091681
@@ -723,6 +723,7 @@ CBA经典,http://tvbox6.icu/tv/migu.php?id=cbajd
 苍南新闻综合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-4.ctv
 泸州新闻综合,http://tvdrs.luzhoubs.com:8100/channellive/lztv1.flv
+泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8?zsicd
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-1.m3u8
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-2.m3u8
 南京新闻综合,http://tvbox6.icu/tv/migu.php?id=njxwzh
@@ -895,10 +896,10 @@ CBA经典,http://tvbox6.icu/tv/migu.php?id=cbajd
 炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 IPTV相声小品,https://dsjsafsdaf.yymmiptv.top/971_1752460143908.m3u8
 IPTV相声小品,https://dsjsafsdaf.yymmiptv.top/1100_1752460143908.m3u8
-IPTV音乐,https://dsjsafsdaf.yymmiptv.top/16456_1752460143908.m3u8
 IPTV音乐,https://dsjsafsdaf.yymmiptv.top/16234_1752460143908.m3u8
-IPTV生活,https://dsjsafsdaf.yymmiptv.top/16457_1752460143908.m3u8
+IPTV音乐,https://dsjsafsdaf.yymmiptv.top/16345_1752460143908.m3u8
 IPTV生活,https://dsjsafsdaf.yymmiptv.top/16235_1752460143908.m3u8
+IPTV生活,https://dsjsafsdaf.yymmiptv.top/16346_1752460143908.m3u8
 IPTV好学生,https://dsjsafsdaf.yymmiptv.top/984_1752460143908.m3u8
 IPTV好学生,https://dsjsafsdaf.yymmiptv.top/1113_1752460143908.m3u8
 IPTV国学,https://dsjsafsdaf.yymmiptv.top/985_1752460143908.m3u8
@@ -917,10 +918,10 @@ IPTV野外,https://dsjsafsdaf.yymmiptv.top/972_1752460143908.m3u8
 IPTV野外,https://dsjsafsdaf.yymmiptv.top/1101_1752460143908.m3u8
 IPTV法治,https://dsjsafsdaf.yymmiptv.top/969_1752460143908.m3u8
 IPTV法治,https://dsjsafsdaf.yymmiptv.top/1098_1752460143908.m3u8
-IPTV综艺,https://dsjsafsdaf.yymmiptv.top/16467_1752460143908.m3u8
 IPTV综艺,https://dsjsafsdaf.yymmiptv.top/16245_1752460143908.m3u8
-IPTV体育,https://dsjsafsdaf.yymmiptv.top/16468_1752460143908.m3u8
+IPTV综艺,https://dsjsafsdaf.yymmiptv.top/16356_1752460143908.m3u8
 IPTV体育,https://dsjsafsdaf.yymmiptv.top/16246_1752460143908.m3u8
+IPTV体育,https://dsjsafsdaf.yymmiptv.top/16357_1752460143908.m3u8
 IPTV收视指南,https://dsjsafsdaf.yymmiptv.top/979_1752460143908.m3u8
 IPTV收视指南,https://dsjsafsdaf.yymmiptv.top/1108_1752460143908.m3u8
 华数经典电影,https://dsjsafsdaf.yymmiptv.top/955_1752460143908.m3u8
@@ -935,8 +936,8 @@ IPTV收视指南,https://dsjsafsdaf.yymmiptv.top/1108_1752460143908.m3u8
 华数热播剧场,https://dsjsafsdaf.yymmiptv.top/1086_1752460143908.m3u8
 华数魅力时尚,https://dsjsafsdaf.yymmiptv.top/956_1752460143908.m3u8
 华数魅力时尚,https://dsjsafsdaf.yymmiptv.top/1085_1752460143908.m3u8
-华数爱电影,https://dsjsafsdaf.yymmiptv.top/16476_1752460143908.m3u8
 华数爱电影,https://dsjsafsdaf.yymmiptv.top/16254_1752460143908.m3u8
+华数爱电影,https://dsjsafsdaf.yymmiptv.top/16365_1752460143908.m3u8
 精彩影视,https://dsjsafsdaf.yymmiptv.top/7155_1752460143908.m3u8
 精彩影视,https://dsjsafsdaf.yymmiptv.top/13838_1752460143908.m3u8
 上海动漫秀场,https://dsjsafsdaf.yymmiptv.top/71_1752460143908.m3u8
@@ -957,8 +958,8 @@ IPTV收视指南,https://dsjsafsdaf.yymmiptv.top/1108_1752460143908.m3u8
 上海东方财经,https://dsjsafsdaf.yymmiptv.top/437_1752460143908.m3u8
 上海金色学堂,https://dsjsafsdaf.yymmiptv.top/78_1752460143908.m3u8
 上海金色学堂,https://dsjsafsdaf.yymmiptv.top/202_1752460143908.m3u8
-中华特产,https://dsjsafsdaf.yymmiptv.top/15575_1752460143908.m3u8
 中华特产,http://2099.tv12.xyz/2946_1752460352091.m3u8
+中华特产,http://2099.tv12.xyz/3241_1752460352091.m3u8
 爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
 爱动漫,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 爱体育,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630
