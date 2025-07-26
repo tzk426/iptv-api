@@ -1,11 +1,11 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
+https://d.kstore.dev/download/12792/ln.txt
+https://d.kstore.dev/download/12792/zb.txt
+https://raw.githubusercontent.com/tzk426/collect-tv-txt/refs/heads/main/bbxx_lite.txt
 http://47.120.41.246:8899/zb.txt
 https://d.kstore.dev/download/13670/cs.txt
 https://tvv.tw/https://raw.githubusercontent.com/tushen6/lzxw/refs/heads/main/TV/gatv.txt
-https://raw.githubusercontent.com/tzk426/collect-tv-txt/refs/heads/main/bbxx_lite.txt
-https://d.kstore.dev/download/12792/ln.txt
-https://d.kstore.dev/download/12792/zb.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/网络收集.txt
 https://gh.tryxd.cn/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
