@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/tzk426/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🕘️更新时间",2025-07-26 06:47:19
+#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="🕘️更新时间",2025-07-26 18:43:29
 https://live.iill.top/huya/17091681
 #EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐小石榴.png" group-title="📚音乐📚",音乐小石榴
 https://live.iill.top/huya/17091681
@@ -1733,66 +1733,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 #EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/炫舞未来.png" group-title="📚经典剧场📚",炫舞未来
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 tvg-name="IPTV相声小品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV相声小品.png" group-title="📚经典剧场📚",IPTV相声小品
-https://dsjsafsdaf.yymmiptv.top/971_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV相声小品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV相声小品.png" group-title="📚经典剧场📚",IPTV相声小品
-https://dsjsafsdaf.yymmiptv.top/1100_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV音乐.png" group-title="📚经典剧场📚",IPTV音乐
-https://dsjsafsdaf.yymmiptv.top/16234_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV音乐.png" group-title="📚经典剧场📚",IPTV音乐
-https://dsjsafsdaf.yymmiptv.top/16345_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV生活.png" group-title="📚经典剧场📚",IPTV生活
-https://dsjsafsdaf.yymmiptv.top/16235_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV生活.png" group-title="📚经典剧场📚",IPTV生活
-https://dsjsafsdaf.yymmiptv.top/16346_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV好学生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV好学生.png" group-title="📚经典剧场📚",IPTV好学生
-https://dsjsafsdaf.yymmiptv.top/984_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV好学生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV好学生.png" group-title="📚经典剧场📚",IPTV好学生
-https://dsjsafsdaf.yymmiptv.top/1113_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV国学" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV国学.png" group-title="📚经典剧场📚",IPTV国学
-https://dsjsafsdaf.yymmiptv.top/985_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV国学" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV国学.png" group-title="📚经典剧场📚",IPTV国学
-https://dsjsafsdaf.yymmiptv.top/1114_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV早教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV早教.png" group-title="📚经典剧场📚",IPTV早教
-https://dsjsafsdaf.yymmiptv.top/974_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV早教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV早教.png" group-title="📚经典剧场📚",IPTV早教
-https://dsjsafsdaf.yymmiptv.top/1103_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV军事.png" group-title="📚经典剧场📚",IPTV军事
-https://dsjsafsdaf.yymmiptv.top/982_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV军事.png" group-title="📚经典剧场📚",IPTV军事
-https://dsjsafsdaf.yymmiptv.top/1111_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV美妆" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV美妆.png" group-title="📚经典剧场📚",IPTV美妆
-https://dsjsafsdaf.yymmiptv.top/3265_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV美妆" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV美妆.png" group-title="📚经典剧场📚",IPTV美妆
-https://dsjsafsdaf.yymmiptv.top/3406_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV地理" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV地理.png" group-title="📚经典剧场📚",IPTV地理
-https://dsjsafsdaf.yymmiptv.top/970_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV地理" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV地理.png" group-title="📚经典剧场📚",IPTV地理
-https://dsjsafsdaf.yymmiptv.top/1099_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV足球.png" group-title="📚经典剧场📚",IPTV足球
-http://2099.tv12.xyz/3249_1752460352091.m3u8
-#EXTINF:-1 tvg-name="IPTV足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV足球.png" group-title="📚经典剧场📚",IPTV足球
-https://dsjsafsdaf.yymmiptv.top/973_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV野外" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV野外.png" group-title="📚经典剧场📚",IPTV野外
-https://dsjsafsdaf.yymmiptv.top/972_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV野外" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV野外.png" group-title="📚经典剧场📚",IPTV野外
-https://dsjsafsdaf.yymmiptv.top/1101_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV法治" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV法治.png" group-title="📚经典剧场📚",IPTV法治
-https://dsjsafsdaf.yymmiptv.top/969_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV法治" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV法治.png" group-title="📚经典剧场📚",IPTV法治
-https://dsjsafsdaf.yymmiptv.top/1098_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV综艺.png" group-title="📚经典剧场📚",IPTV综艺
-https://dsjsafsdaf.yymmiptv.top/16245_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV综艺.png" group-title="📚经典剧场📚",IPTV综艺
-https://dsjsafsdaf.yymmiptv.top/16356_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV体育.png" group-title="📚经典剧场📚",IPTV体育
-https://dsjsafsdaf.yymmiptv.top/16246_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV体育.png" group-title="📚经典剧场📚",IPTV体育
-https://dsjsafsdaf.yymmiptv.top/16357_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV收视指南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV收视指南.png" group-title="📚经典剧场📚",IPTV收视指南
-https://dsjsafsdaf.yymmiptv.top/979_1752460143908.m3u8
-#EXTINF:-1 tvg-name="IPTV收视指南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV收视指南.png" group-title="📚经典剧场📚",IPTV收视指南
-https://dsjsafsdaf.yymmiptv.top/1108_1752460143908.m3u8
 #EXTINF:-1 tvg-name="华数经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华数经典电影.png" group-title="📚经典剧场📚",华数经典电影
 https://dsjsafsdaf.yymmiptv.top/955_1752460143908.m3u8
 #EXTINF:-1 tvg-name="华数经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华数经典电影.png" group-title="📚经典剧场📚",华数经典电影
@@ -1825,42 +1765,32 @@ https://dsjsafsdaf.yymmiptv.top/16365_1752460143908.m3u8
 https://dsjsafsdaf.yymmiptv.top/7155_1752460143908.m3u8
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精彩影视.png" group-title="📚经典剧场📚",精彩影视
 https://dsjsafsdaf.yymmiptv.top/13838_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海动漫秀场.png" group-title="📚经典剧场📚",上海动漫秀场
-https://dsjsafsdaf.yymmiptv.top/71_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海动漫秀场.png" group-title="📚经典剧场📚",上海动漫秀场
-https://dsjsafsdaf.yymmiptv.top/198_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海都市剧场.png" group-title="📚经典剧场📚",上海都市剧场
-https://dsjsafsdaf.yymmiptv.top/77_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海都市剧场.png" group-title="📚经典剧场📚",上海都市剧场
-https://dsjsafsdaf.yymmiptv.top/200_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海欢笑剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海欢笑剧场.png" group-title="📚经典剧场📚",上海欢笑剧场
-https://dsjsafsdaf.yymmiptv.top/72_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海欢笑剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海欢笑剧场.png" group-title="📚经典剧场📚",上海欢笑剧场
-https://dsjsafsdaf.yymmiptv.top/1452_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海法治天地" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海法治天地.png" group-title="📚经典剧场📚",上海法治天地
-https://dsjsafsdaf.yymmiptv.top/79_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海法治天地" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海法治天地.png" group-title="📚经典剧场📚",上海法治天地
-https://dsjsafsdaf.yymmiptv.top/201_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海生活时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海生活时尚.png" group-title="📚经典剧场📚",上海生活时尚
-https://dsjsafsdaf.yymmiptv.top/75_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海生活时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海生活时尚.png" group-title="📚经典剧场📚",上海生活时尚
-https://dsjsafsdaf.yymmiptv.top/199_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海游戏风云.png" group-title="📚经典剧场📚",上海游戏风云
-https://dsjsafsdaf.yymmiptv.top/195_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海游戏风云.png" group-title="📚经典剧场📚",上海游戏风云
-https://dsjsafsdaf.yymmiptv.top/429_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海乐游频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海乐游频道.png" group-title="📚经典剧场📚",上海乐游频道
-https://dsjsafsdaf.yymmiptv.top/74_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海乐游频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海乐游频道.png" group-title="📚经典剧场📚",上海乐游频道
-https://dsjsafsdaf.yymmiptv.top/197_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海东方财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海东方财经.png" group-title="📚经典剧场📚",上海东方财经
-https://dsjsafsdaf.yymmiptv.top/203_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海东方财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海东方财经.png" group-title="📚经典剧场📚",上海东方财经
-https://dsjsafsdaf.yymmiptv.top/437_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海金色学堂" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海金色学堂.png" group-title="📚经典剧场📚",上海金色学堂
-https://dsjsafsdaf.yymmiptv.top/78_1752460143908.m3u8
-#EXTINF:-1 tvg-name="上海金色学堂" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海金色学堂.png" group-title="📚经典剧场📚",上海金色学堂
-https://dsjsafsdaf.yymmiptv.top/202_1752460143908.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="📚经典剧场📚",动漫秀场
+http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="📚经典剧场📚",动漫秀场
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="📚经典剧场📚",都市剧场
+http://unicom.lynnyang.cn:4022/rtp/239.45.3.136:5140
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="📚经典剧场📚",都市剧场
+https://hls-gateway.vpstv.net/streams/708845.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欢笑剧场.png" group-title="📚经典剧场📚",欢笑剧场
+http://z.b.bkpcp.top/m.php
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欢笑剧场.png" group-title="📚经典剧场📚",欢笑剧场
+http://gat.bkpcp.top/ymg.php?id=hxjc
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="📚经典剧场📚",法治天地
+http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="📚经典剧场📚",法治天地
+http://z.b.bkpcp.top/m.php?id=fztd
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="📚经典剧场📚",生活时尚
+https://stream1.freetv.fun/sheng-huo-shi-shang-2.ctv
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="📚经典剧场📚",生活时尚
+https://stream1.freetv.fun/sheng-huo-shi-shang-4.ctv
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="📚经典剧场📚",游戏风云
+https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="📚经典剧场📚",东方财经
+http://wouu.net:9977/udp/239.93.1.165:5140
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="📚经典剧场📚",东方财经
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8
 #EXTINF:-1 tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中华特产.png" group-title="📚经典剧场📚",中华特产
 http://2099.tv12.xyz/2946_1752460352091.m3u8
 #EXTINF:-1 tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中华特产.png" group-title="📚经典剧场📚",中华特产
