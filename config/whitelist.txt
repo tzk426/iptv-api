@@ -3,6 +3,67 @@
 # This is the whitelist for the interface. Interfaces in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
+咪视界-1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227308/index.m3u8
+咪视界-2,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227314/index.m3u8
+咪视界-3,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227317/index.m3u8
+咪视界-4,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227320/index.m3u8
+咪视界-5,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227323/index.m3u8
+咪视界-6,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227326/index.m3u8
+咪视界-7,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227366/index.m3u8
+咪视界-8,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227369/index.m3u8
+咪视界-9,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227372/index.m3u8
+咪视界-10,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227375/index.m3u8
+咪视界-11,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227378/index.m3u8
+咪视界-12,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227302/index.m3u8
+咪视界-13,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227299/index.m3u8
+咪视界-14,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227387/index.m3u8
+咪视界-15,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227390/index.m3u8
+咪视界-16,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227406/index.m3u8
+咪视界-17,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227409/index.m3u8
+咪视界-18,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227412/index.m3u8
+咪视界-19,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
+咪视界-21,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227433/index.m3u8
+咪视界-22,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227296/index.m3u8
+咪视界-23,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227293/index.m3u8
+咪视界-24,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227442/index.m3u8
+咪视界-25,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227445/index.m3u8
+咪视界-26,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227448/index.m3u8
+咪视界-27,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
+咪视界-28,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227305/index.m3u8
+咪视界-29,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227384/index.m3u8
+咪视界-30,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
+咪视界-31,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227439/index.m3u8
+咪视界-32,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
+
+北京纪实科教,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+NewTV黑莓电影,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+NewTV黑莓动画,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+NewTV黑莓电竞,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+NewTV超级电影,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NewTV超级电视剧,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NewTV超级综艺,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+NewTV超级体育,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+NewTV精品大剧,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NewTV精品纪录,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+NewTV精品体育,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+NewTV金牌综艺,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+NewTV东北热剧,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NewTV动作电影,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV家庭剧场,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NewTV军旅剧场,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+NewTV古装剧场,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+NewTV爱情喜剧,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+NewTV欢乐剧场,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+NewTV明星大片,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+NewTV海外剧场,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+NewTV惊悚悬疑,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NewTV军事评论,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NewTV怡伴健康,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+NewTV武搏世界,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+NewTV中国功夫,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NewTV农业致富,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NewTV潮妈辣婆,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+NewTV炫舞未来,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 
 
 
