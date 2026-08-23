@@ -1,3 +1,23 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/yoxiaojun1987/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-08-23 06:27:07
-url
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tzk426/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-name="音乐小石榴" tvg-logo="音乐小石榴.png" group-title="🕘️更新时间",2026-08-23 19:21:18
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="NewTV黑莓动画.png" group-title="🎬影视频道",NewTV黑莓动画
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="NewTV中国功夫.png" group-title="🎬影视频道",NewTV中国功夫
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="NewTV军事评论.png" group-title="🎬影视频道",NewTV军事评论
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="NewTV军旅剧场.png" group-title="🎬影视频道",NewTV军旅剧场
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="NewTV古装剧场.png" group-title="🎬影视频道",NewTV古装剧场
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="NewTV惊悚悬疑.png" group-title="🎬影视频道",NewTV惊悚悬疑
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="NewTV爱情喜剧.png" group-title="🎬影视频道",NewTV爱情喜剧
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="NewTV精品大剧.png" group-title="🎬影视频道",NewTV精品大剧
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="NewTV金牌综艺.png" group-title="🎬影视频道",NewTV金牌综艺
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="北京纪实科教.png" group-title="🌽其他城市频道",北京纪实科教
+http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
